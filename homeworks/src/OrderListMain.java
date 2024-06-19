@@ -1,5 +1,3 @@
-package com.kodilla.testing;
-
 import java.util.LinkedHashSet;
 import java.util.Set;
 
